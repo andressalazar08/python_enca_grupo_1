@@ -1,8 +1,8 @@
 import operaciones
 
-print(operaciones.sumar(50,11))
+print(operaciones.division_tradicional(50,0))
 
-print(operaciones.sumar(50,41))
+# print(operaciones.sumar(50,41))
 
 #2 opción
 # from operaciones import restar,sumar
